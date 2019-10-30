@@ -12,7 +12,7 @@ namespace LoginRateAppWebProject.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Rating Application description page.";
         }
     }
 }
